@@ -15,11 +15,3 @@ cd ./frontend
 
 npm start
 
-[to start 2nd client]
-pwd ./frontend/
-
-mv ./package1.json ./package.json
-
-npm start
-
-dependency packages: flask-cors
